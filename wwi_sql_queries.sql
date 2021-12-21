@@ -1,6 +1,5 @@
 
-select orderid, CustomerID, CustomerPurchaseOrderNumber from Sales.Orders
-where  CustomerID = '803'
+
 
 
 USE WideWorldImporters
